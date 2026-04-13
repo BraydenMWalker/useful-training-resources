@@ -28,30 +28,21 @@ A curated collection of training, articles, and community resources for engineer
 
 - [Developing Applications with Generative AI](https://rx-m.com/training/developing-applications-with-generative-ai/) – Three-day comprehensive introduction to generative AI application development for engineers.
 - [LLM Fine Tuning Introduction](https://rx-m.com/training/llm-fine-tuning-introduction/) – One-day fast-paced overview of lightweight fine-tuning techniques for large language models.
-- [LLM Prompt Engineering (LFS401 – Linux Foundation)](https://training.linuxfoundation.org/training/gen-ai-prompt-engineering-rxm401/) – One-day practical course on prompt engineering techniques.
-- [Machine Learning & AI Introduction (LFS402 – Linux Foundation)](https://training.linuxfoundation.org/training/machine-learning-ai-intro-rxm402/) – One-day hands-on introduction to machine learning and AI fundamentals.
+- [LLM Prompt Engineering (RXM401 – Linux Foundation)](https://training.linuxfoundation.org/training/gen-ai-prompt-engineering-rxm401/) – One-day practical course on prompt engineering techniques.
+- [Machine Learning & AI Introduction (RXM402 – Linux Foundation)](https://training.linuxfoundation.org/training/machine-learning-ai-intro-rxm402/) – One-day hands-on introduction to machine learning and AI fundamentals.
 
 ---
 
 ## Retrieval Augmented Generation (RAG) & Context Engineering
 
-### Free Resources
-
-- [Retrieval Augmented Generation Introduction (LFS403 – Linux Foundation)](https://training.linuxfoundation.org/training/retrieval-augmented-generation-rag-intro-rxm403) – One-day practical introduction to the basics of building a RAG system.
-
 ### Commercial Instructor-Led Courses
 
 - [Context Engineering Foundation](https://rx-m.com/training/context-engineering-foundation/) – Two-day hands-on course covering context design as a first-class system: instruction hierarchies, RAG pipelines, memory strategies, and avoiding hallucination and prompt injection failures.
-- [Retrieval Augmented Generation (RAG) Foundation](https://rx-m.com/training/retrieval-augmented-generation-rag-foundation/) – Three-day project-based deep dive from RAG fundamentals to production-grade deployment with evaluation, guardrails, caching, and CI/CD.
+- [Retrieval Augmented Generation Introduction (RXM403 – Linux Foundation)](https://training.linuxfoundation.org/training/retrieval-augmented-generation-rag-intro-rxm403) – One-day practical introduction to the basics of building a RAG system.
 
 ---
 
 ## Agentic AI Systems & Design Patterns
-
-### Free Resources
-
-- [Challenges in Agentic AI](https://rx-m.com/agentic-ai-part-3-challenges-in-agentic-ai/) – Detailed look at real-world obstacles facing agentic AI: LLM unreliability, infrastructure immaturity, and the human talent gap.
-- [Digital Babel: LLM Agent Protocols](https://rx-m.com/the-algorithmic-8-digital-babel-llm-agent-protocols/) – Analysis of the emerging need for standardized agent communication protocols to prevent siloed AI ecosystems.
 
 ### Commercial Instructor-Led Courses
 
@@ -71,7 +62,6 @@ A curated collection of training, articles, and community resources for engineer
 - [Kubernetes Resources Hub](https://rx-m.com/k8s-resources/) – Curated short tutorials and video explainers covering Pods, Deployments, Services, RBAC, Persistent Volumes, ConfigMaps, and more. Especially useful for CKAD/CKA preparation.
 - [Kubebyexample](https://kubebyexample.com/) – Community example repository demonstrating common deployment, service, probe, and configuration patterns.
 - [KillrCoda](https://killercoda.com/) – Browser-based interactive scenarios for CKAD, CKA, CKS, Argo, Istio, Cilium, and more — no local setup required.
-- [Introduction to Kubernetes (LFS158 – edX)](https://www.edx.org/course/introduction-to-kubernetes) – Free video course from the Linux Foundation covering Kubernetes fundamentals over 16 chapters.
 - [CKAD Self-Study Course](https://rx-m.com/ckad-online-self-study-training-certification/) – Free self-study course aligned to CKAD objectives with application-focused labs.
 - [CKA Self-Study Course](https://rx-m.com/cka-online-training/) – Free self-study pathway focused on CKA domains and exam readiness.
 - [CKS Self-Study Course](https://rx-m.com/cks-self-study-course/) – Free self-study security course covering hardening, runtime controls, and detection.
@@ -114,7 +104,6 @@ A curated collection of training, articles, and community resources for engineer
 ## Books (Free / Open Access)
 
 - [Deep Learning (Goodfellow, Bengio & Courville)](https://www.deeplearningbook.org/) – The definitive deep learning textbook, freely available online.
-- [Dive into Deep Learning (d2l.ai)](https://d2l.ai/) – Interactive, code-first deep learning textbook with PyTorch, JAX, and MXNet examples.
 - [Pattern Recognition and Machine Learning (Bishop)](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) – Classic probabilistic ML textbook, free PDF from Microsoft Research.
 - [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) – Rigorous statistical foundations of ML, freely available from Stanford.
 
@@ -138,9 +127,3 @@ A curated collection of training, articles, and community resources for engineer
 - [CNCF Blog](https://www.cncf.io/blog/) – Official Cloud Native Computing Foundation blog with project updates, case studies, and technical posts.
 - [r/MachineLearning](https://www.reddit.com/r/MachineLearning/) – Active Reddit community for ML research discussion and paper sharing.
 - [r/kubernetes](https://www.reddit.com/r/kubernetes/) – Practitioner community for Kubernetes operations, tooling, and cloud native discussions.
-
----
-
-## CNCF Certifications
-
-For CNCF exam preparation, the self-study courses linked above (CKAD, CKA, CKS) are a good starting point. Additional boot camps and exam prep courses covering KCNA, KCSA, CCA, ICA, CAPA, CGOA, CNPA, and CNPE are available through the [Linux Foundation](https://training.linuxfoundation.org/) and [RX-M](https://rx-m.com/cloud-native-certifications/). Interactive practice environments are available free at [KillrCoda](https://killercoda.com/) and [killer.sh](https://killer.sh) (included with exam registration).
